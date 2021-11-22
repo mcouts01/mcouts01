@@ -1,0 +1,6 @@
+- Hi, I’m @mcouts01
+- I’m interested in web development
+- I’m currently learning full stack development
+- mattcouts7@gmail.com
+- Student at the University of Arkansas
+- Intern at J.B. Hunt
