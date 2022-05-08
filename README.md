@@ -1,6 +1,13 @@
-- Hi, I’m @mcouts01
-- I’m interested in web development
-- I’m currently learning full stack development
-- mattcouts7@gmail.com
-- Student at the University of Arkansas
-- Intern at J.B. Hunt
+# Hi, I'm Matt
+
+### I am an Honor's Computer Science Major at the University of Arkansas and an Application Development Intern at J.B. Hunt
+
+#### Tech Stack:
+* Java
+* Spring Boot
+* HTML/CSS
+* Angular
+* C++
+
+#### Currently Exploring:
+* Swift and SwiftUI
