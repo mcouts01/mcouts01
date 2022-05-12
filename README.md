@@ -10,4 +10,5 @@
 * C++
 
 #### Currently Exploring:
-* Swift and SwiftUI
+* React
+* Javascript
